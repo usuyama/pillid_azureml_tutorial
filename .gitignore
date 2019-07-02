@@ -1,6 +1,7 @@
 config.json
 aml_config
 .amlignore
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
